@@ -244,3 +244,4 @@ Agora, você pode explorar mais funcionalidades e criar assistentes ainda mais i
 🔹 Explorar os recursos avançados de IA no Copilot Studio.  
 
 ---
+# Copiloto-Micrsoft-Copilot-Studio-desafio02
